@@ -1,5 +1,5 @@
+![Alt text](./circle.svg)
 
-<p style="color: red">adf </p>
 - 👋 Hi, I’m @me3eh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
