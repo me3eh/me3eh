@@ -2,7 +2,6 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            @import url('https://matiaslescano.com.ar/static/fonts/pixelicious.css');
 
 body {
   background-color: #000;
@@ -17,7 +16,6 @@ body {
 }
 
 p {
-  font-family: Pixelicious, monospace;
   font-size: 1.5em;
   text-transform: uppercase;
   color: transparent;
