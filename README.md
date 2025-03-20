@@ -1,5 +1,3 @@
-![Alt text](./circle.svg)
-
 Maciej Bociuk
 Masters Student in:
 - Politechnika Białostocka
